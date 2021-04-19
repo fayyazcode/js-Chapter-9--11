@@ -22,3 +22,19 @@
     //     else{
     //         alert("Enter correct gender gay ;/")
     //     }
+
+    //Q3*******************
+    // var one=prompt("Enter Signel Color");
+ 
+    // if(one==="red"){
+    //     alert("Must Stop")
+    // }
+    // else if(one==="yellow"){
+    //     alert("Ready To Move")
+    // }
+    // else if(one==="green"){
+    //     alert("Move Now")
+    // }
+    // else{
+    //     alert("Invalid")
+    // }
