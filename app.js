@@ -177,3 +177,19 @@
     // else if(guess==7||guess===9){
     //     alert("Close Enough")
     // }
+
+
+
+
+
+    //Q8********************************
+
+    
+    // var input=+prompt("Enter a number to check if it is divisible by 3")
+    // var reminder=input%3
+    // if(reminder===0){
+    //     alert("the number is divisible by three")
+    // }
+    // else{
+    //     alert("number is not divisible by three")
+    // }
