@@ -184,7 +184,7 @@
 
     //Q8********************************
 
-    
+
     // var input=+prompt("Enter a number to check if it is divisible by 3")
     // var reminder=input%3
     // if(reminder===0){
@@ -193,3 +193,17 @@
     // else{
     //     alert("number is not divisible by three")
     // }
+
+    //Q9*********************************
+
+
+
+    var check=+prompt("Enter a number")
+    var reminder=check%2
+
+    if(reminder===0){
+        alert("number is even")
+    }
+    else{
+        alert("Number is Odd")
+    }
