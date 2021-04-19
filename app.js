@@ -38,3 +38,18 @@
     // else{
     //     alert("Invalid")
     // }
+
+
+
+
+    //Q4***********************
+
+    
+    // var fuel=+prompt("Enter fuel in Liters")
+
+    // if(fuel<=0.25){
+    //     alert("Please Refill the fuel in in your car")
+    // }
+    // else{
+    //     alert("Your are good to go")
+    // }
