@@ -120,32 +120,60 @@
 //     }
     //car is smaller then car
 
-    //Q6***********************************
-    var one=+prompt("Enter English marks")
-    var two=+prompt("Enter Computer marks")
-    var three=+prompt("Enter Pakstudied marks")
-    
-    var Tone=+prompt("Enter English total marks")
-    var Ttwo=+prompt("Enter Computer total marks")
-    var Tthree=+prompt("Enter Pakstudied total marks")
 
-    var totalmarksGain=(one+two+three)
-    var total=(Tone+Ttwo+Tthree)
-   var percent=(totalmarksGain/total)*100
-    var grade;
-   if(percent>=80){
-    grade="A-One"
-    document.write("total marks Gain:"+totalmarksGain,"</br>","Total Marks "+total,"</br>","Percentage :"+percent,"</br>","grade : "+grade,"</br>","Remarks : Excellent")
-   }
-   else if(percent>=70 && percent<80){
-    grade="A"
-    document.write("total marks Gain:"+totalmarksGain,"</br>","Total Marks "+total,"</br>","Percentage :"+percent,"</br>","grade : "+grade,"</br>","Remarks : Good")
-   }
-   else if(percent>=60 && percent<70){
-    grade="B"
-    document.write("total marks Gain:"+totalmarksGain,"</br>","Total Marks "+total,"</br>","Percentage :"+percent,"</br>","grade : "+grade,"</br>","Remarks : Need Improment")
-   }
-   else if( percent<60){
-    grade="Fail"
-    document.write("total marks Gain:"+totalmarksGain,"</br>","Total Marks "+total,"</br>","Percentage :"+percent,"</br>","grade : "+grade,"</br>","Remarks : Sorry ")
-   }
+
+
+
+
+
+
+    //Q6***********************************
+
+
+
+
+
+
+//     var one=+prompt("Enter English marks")
+//     var two=+prompt("Enter Computer marks")
+//     var three=+prompt("Enter Pakstudied marks")
+    
+//     var Tone=+prompt("Enter English total marks")
+//     var Ttwo=+prompt("Enter Computer total marks")
+//     var Tthree=+prompt("Enter Pakstudied total marks")
+
+//     var totalmarksGain=(one+two+three)
+//     var total=(Tone+Ttwo+Tthree)
+//    var percent=(totalmarksGain/total)*100
+//     var grade;
+//    if(percent>=80){
+//     grade="A-One"
+//     document.write("total marks Gain:"+totalmarksGain,"</br>","Total Marks "+total,"</br>","Percentage :"+percent,"</br>","grade : "+grade,"</br>","Remarks : Excellent")
+//    }
+//    else if(percent>=70 && percent<80){
+//     grade="A"
+//     document.write("total marks Gain:"+totalmarksGain,"</br>","Total Marks "+total,"</br>","Percentage :"+percent,"</br>","grade : "+grade,"</br>","Remarks : Good")
+//    }
+//    else if(percent>=60 && percent<70){
+//     grade="B"
+//     document.write("total marks Gain:"+totalmarksGain,"</br>","Total Marks "+total,"</br>","Percentage :"+percent,"</br>","grade : "+grade,"</br>","Remarks : Need Improment")
+//    }
+//    else if( percent<60){
+//     grade="Fail"
+//     document.write("total marks Gain:"+totalmarksGain,"</br>","Total Marks "+total,"</br>","Percentage :"+percent,"</br>","grade : "+grade,"</br>","Remarks : Sorry ")
+//    }
+
+
+
+
+
+//Q7*******************************
+
+    // var number=8;
+    // var guess=+prompt("Guess a number 1 - 10")
+    // if(guess===number){
+    //     alert("Bingo! Correct")
+    // }
+    // else if(guess==7||guess===9){
+    //     alert("Close Enough")
+    // }
