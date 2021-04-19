@@ -198,12 +198,35 @@
 
 
 
-    var check=+prompt("Enter a number")
-    var reminder=check%2
+    // var check=+prompt("Enter a number")
+    // var reminder=check%2
 
-    if(reminder===0){
-        alert("number is even")
-    }
-    else{
-        alert("Number is Odd")
-    }
+    // if(reminder===0){
+    //     alert("number is even")
+    // }
+    // else{
+    //     alert("Number is Odd")
+    // }
+
+    
+    
+    //Q10************************************
+
+//  T > 40 then “It is too hot outside.”
+//  T > 30 then “The Weather today is Normal.”
+//  T > 20 then “Today’s Weather is cool.”
+//  T > 10 then “OMG! Today’s weather is so Cool.”
+
+var temp=+prompt("Enter Tempreture")
+if(temp>40){
+    alert("It is too hot outside")
+}
+else if(temp<30 ){
+    alert("The Weather today is Normal")
+}
+else if(temp<20 ){
+    alert("Today’s Weather is cool")
+}
+else if(temp<10){
+    alert("OMG! Today’s weather is so Cool")
+}
